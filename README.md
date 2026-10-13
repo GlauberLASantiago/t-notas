@@ -2,6 +2,8 @@
 
 Recriação do aplicativo educativo T-Notas a partir de `T-NotasDeploy4.zip`, com o jogo de leitura de notas, configurações e recursos recuperados do original com REA.
 
+**[Jogar no navegador](https://glauberlasantiago.github.io/t-notas/)**
+
 ## Funcionalidades
 
 - Exercícios nas claves de Sol, Fá, Dó e na pauta dupla de piano.
