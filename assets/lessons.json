@@ -1,0 +1,463 @@
+{
+  "staff": {
+    "segments": [
+      {
+        "type": "heading",
+        "text": "O Pentagrama"
+      },
+      {
+        "type": "text",
+        "text": "Pentagrama ou pauta musical é o conjunto de cinco linhas eqüidistantes com 4 espaços entre elas que utilizamos para a escrita musical tradicional"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem1-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Numeração das linhas"
+      },
+      {
+        "type": "text",
+        "text": "As linhas do pentagrama são numeradas de baixo para cima"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem2-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Numeração dos espaços"
+      },
+      {
+        "type": "text",
+        "text": "Os espaços do pentagrama são numerados de baixo para cima"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem3-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Linhas e espaços suplementares"
+      },
+      {
+        "type": "text",
+        "text": "Quando as notas são agudas demais ou graves demais elas podem estar dispostas fora do pentagrama em linhas e espaços suplementares."
+      },
+      {
+        "type": "text",
+        "text": "Veja o exemplo:"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem4-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Linhas suplementares"
+      },
+      {
+        "type": "text",
+        "text": "Acima do pentagrama são chamadas de linhas suplementares superiores.\r\nAbaixo do pentagrama são chamadas de linhas suplementares inferiores.\r\nAs linhas suplementares são numeradas a partir do pentagrama."
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem5-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Espaços suplementares"
+      },
+      {
+        "type": "text",
+        "text": "Acima do pentagrama são chamados de espaços suplementares superiores.\r\nAbaixo do pentagrama são chamados de espaços suplementares inferiores.\r\nOs espaços suplementares são numerados a partir do pentagrama."
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem6-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Quantidade"
+      },
+      {
+        "type": "text",
+        "text": "Não existe um limite rígido para a quantidade máxima de linhas ou espaços suplementares mas em geral usa-se até 5."
+      },
+      {
+        "type": "text",
+        "text": "Cada vez mais distantes do pentagrama as notas ficam mais difíceis de serem identificadas. Por isso esta limitação."
+      },
+      {
+        "type": "heading",
+        "text": "Linhas e espaços suplementares"
+      },
+      {
+        "type": "text",
+        "text": "Neste exemplo primeira nota está na terceira linha suplementar superior e a segunda está no segundo espaço suplementar inferior."
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem7-white.png"
+      }
+    ],
+    "title": "Pentagrama"
+  },
+  "gclef": {
+    "segments": [
+      {
+        "type": "heading",
+        "text": "O que indica?"
+      },
+      {
+        "type": "text",
+        "text": "A clave de sol identifica a nota que se localiza na segunda linha do pentagrama."
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem8-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Sol na segunda linha"
+      },
+      {
+        "type": "text",
+        "text": "Assim a nota que se localiza na segunda linha será identificada como sol. Devido o nome de clave"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem9-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Para cima"
+      },
+      {
+        "type": "text",
+        "text": "Assim, as notas acima da segunda linha seguirão a ordem normal das notas, ascendentemente."
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem10-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Para baixo"
+      },
+      {
+        "type": "text",
+        "text": "Da mesma forma, abaixo da segunda linha as notas também seguem a ordem normal das notas, descendentemente."
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem11-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Notas nas linhas"
+      },
+      {
+        "type": "text",
+        "text": "Uma maneira interessante de memorizar as notas é iniciar com as notas das linhas"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem12-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Notas nos espaços"
+      },
+      {
+        "type": "text",
+        "text": "Depois memorize as notas dos espaços"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem13-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Poema para memorização"
+      },
+      {
+        "type": "text",
+        "text": "Tente comparar a sonoridade dos nomes das notas (mi, sol, si, ré, fá e fá, lá, dó, mi) com os versos 1 e 3 do seguinte poema:"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/poema1-white.png"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem14-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Linhas e espaços suplementares"
+      },
+      {
+        "type": "text",
+        "text": "Fora do pentagrama os espaços e as linhas suplementares continuam com as notas na mesma progressão que vinham, para cima ou para baixo."
+      }
+    ],
+    "title": "Clave de sol"
+  },
+  "fclef": {
+    "segments": [
+      {
+        "type": "heading",
+        "text": "O que indica?"
+      },
+      {
+        "type": "text",
+        "text": "A clave de fá identifica a nota que se localiza na terceira linha do pentagrama ou na quarta linha do pentagrama. Esta diferenciação é realizada com a observação dos dois pontos entre a linha correspondente."
+      },
+      {
+        "type": "text",
+        "text": "Assim, podemos dizer que tem a clave de fá na terceira linha e a clave da fá na quarta linha."
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem15-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Clave de fá na quarta linha"
+      },
+      {
+        "type": "text",
+        "text": "A clave de fá mais comum é a clave de fá na quarta linha e é ela que estudaremos."
+      },
+      {
+        "type": "text",
+        "text": "A nota que fica na quarta linha ganha o nome da clave"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem16-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Para cima"
+      },
+      {
+        "type": "text",
+        "text": "Assim, as notas acima da quarta linha seguirão a ordem normal das notas, ascendentemente."
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem17-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Para baixo"
+      },
+      {
+        "type": "text",
+        "text": "Da mesma forma, abaixo da segunda linha as notas também seguem a ordem normal das notas, descendentemente."
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem18-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Notas nas linhas"
+      },
+      {
+        "type": "text",
+        "text": "Uma maneira interessante de memorizar as notas é iniciar com as notas das linhas"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem19-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Notas nos espaços"
+      },
+      {
+        "type": "text",
+        "text": "Depois memorize as notas dos espaços"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem20-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Diálogo para memorização"
+      },
+      {
+        "type": "text",
+        "text": "Tente comparar a sonoridade dos nomes das notas (sol, si, ré, fá, lá e lá, dó, mi, sol) a última frase deste diálogo entre dois ETs."
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/poema2-white.png"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem21-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Linhas e espaços suplementares"
+      },
+      {
+        "type": "text",
+        "text": "Fora do pentagrama os espaços e as linhas suplementares continuam com as notas na mesma progressão que vinham, para cima ou para baixo."
+      }
+    ],
+    "title": "Clave de fá na quarta linha"
+  },
+  "cclef": {
+    "segments": [
+      {
+        "type": "heading",
+        "text": "O que indica?"
+      },
+      {
+        "type": "text",
+        "text": "A clave de dó identifica a nota que se localiza em qualquer uma das linhas do pentagrama. Esta diferenciação é realizada com a observação do centro da clave."
+      },
+      {
+        "type": "text",
+        "text": "Assim, podemos dizer que temos cinco claves de dó possíveis."
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem22-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Clave de dó na terceira linha"
+      },
+      {
+        "type": "text",
+        "text": "Iremos estudar apenas uma clave de dó que será a clave de dó na terceira linha."
+      },
+      {
+        "type": "text",
+        "text": "Assim, a nota que fica na terceira linha ganha o nome da clave: Dó"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem23-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Para cima"
+      },
+      {
+        "type": "text",
+        "text": "Assim, as notas acima da terceira linha seguirão a ordem normal das notas, ascendentemente."
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem24-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Para baixo"
+      },
+      {
+        "type": "text",
+        "text": "Da mesma forma, abaixo da terceira linha as notas também seguem a ordem normal das notas, descendentemente."
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem25-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Notas nas linhas"
+      },
+      {
+        "type": "text",
+        "text": "Uma maneira interessante de memorizar as notas é iniciar com as notas das linhas"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem26-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Notas nos espaços"
+      },
+      {
+        "type": "text",
+        "text": "Depois memorize as notas dos espaços"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem27-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Diálogo para memorização"
+      },
+      {
+        "type": "text",
+        "text": "Tente comparar a sonoridade dos nomes das notas (fá, lá, dó, mi, sol e sol, si, ré, fá) Com o a seguinte frase emitida por uma fada ET:"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/poema3-white.png"
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem28-white.png"
+      },
+      {
+        "type": "heading",
+        "text": "Linhas e espaços suplementares"
+      },
+      {
+        "type": "text",
+        "text": "Fora do pentagrama os espaços e as linhas suplementares continuam com as notas na mesma progressão que vinham, para cima ou para baixo."
+      }
+    ],
+    "title": "Clave de dó na terceira linha"
+  },
+  "comparision": {
+    "segments": [
+      {
+        "type": "heading",
+        "text": "Comparando as 3 claves"
+      },
+      {
+        "type": "text",
+        "text": "Cada clave indica as notas em alturas variadas. Assim um mesmo som é escrito em lugares diferentes conforme as claves."
+      },
+      {
+        "type": "text",
+        "text": "O exemplo indica uma mesma nota (o dó central) nas três diferentes claves."
+      },
+      {
+        "type": "text",
+        "text": "Essa nota é o dó grave das mulheres e o dó agudo dos homens em geral."
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem29-white.png"
+      },
+      {
+        "type": "text",
+        "text": "Neste outro exemplo vemos uma mesma frase, com as mesmas notas, escrita nas três claves."
+      },
+      {
+        "type": "text",
+        "text": "Aqui se observa como dependendo da clave podem variar as linhas e espaços suplementares utilizados."
+      },
+      {
+        "type": "image",
+        "src": "./assets/images/Imagem30-white.png"
+      }
+    ],
+    "title": "Comparação entre as claves"
+  }
+}
