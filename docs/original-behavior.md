@@ -15,4 +15,3 @@ Timer goal/streak rules same sister apps: victory only on timer expiry if hits>=
 Theory resources staff/gclef/fclef/cclef/comparision plus About text. Original poems support memorization and audio examples within chapters. Build has actual profile,practice,exercise,victory/defeat and theory scenes. No theory 'comparison' gameplay mode.
 
 Artifacts: gameplay.json normalized exact definitions; exercise-configs.json serialized phase field source; managed-members.json REA-derived subset; instructions.json and cil-readable.txt full code; texts10 original textual assets; scene strings build paths/UI labels.
-
